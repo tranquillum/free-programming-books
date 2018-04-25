@@ -94,8 +94,9 @@
 * [DevZen Podcast](https://devzen.ru) (Podcast)
 * [Software Development podCAST](https://sdcast.ksdaemon.ru) (Podcast)
 * [The Art Of Programming](https://theartofprogramming.podbean.com) (Podcast)
-* [Как делают игры](https://kdicast.com) (Podcast)
+
 * [Радио-Т](https://radio-t.com) (Podcast)
 * [Разбор полётов](http://razbor-poletov.com) (Podcast)
 * [Развлекательный IT подкаст](http://radioma.org) (Podcast)
 * [Слава + Паша](https://it.asm0dey.ru) (Podcast)
+* [Как делают игры](https://kdicast.com) (Podcast)
